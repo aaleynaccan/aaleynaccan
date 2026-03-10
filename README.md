@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aleyna 👋
 
-<!--
-**aaleynaccan/aaleynaccan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA candidate in Business Analytics with experience in marketing analytics, data visualization, and business intelligence.
 
-Here are some ideas to get you started:
+I enjoy turning data into insights that support better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Data Analysis
+- Power BI
+- Excel
+- Data Visualization
+- Dashboard Development
+- Marketing Analytics
+
+## Projects
+
+### Sleep Pattern & Health Indicator Analysis
+Power BI dashboard analyzing sleep duration, stress levels, and health indicators in a working population.
+
+🔗 https://github.com/aaleynaccan/sleep-health-data-analysis
+
+### Student Depression & Academic Stress Analysis
+Power BI dashboard exploring relationships between academic pressure, sleep duration, financial stress, and depression indicators.
+
+🔗 https://github.com/aaleynaccan/student-depression-data-analysis
+
+## Background
+- MBA – Business Analytics
+- Experience in influencer marketing and social media analytics
+- Interested in data-driven decision making and business intelligence
+
+## Contact
+LinkedIn: www.linkedin.com/in/aleynacan
